@@ -8,7 +8,7 @@ public class PrimeiroProjetoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PrimeiroProjetoApplication.class, args);
-		System.out.println("Projeto Spring Boot - Restful");
+		System.out.println("Spring Boot");
 	}
 
 }
